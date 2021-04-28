@@ -1,0 +1,147 @@
+h1, h2, h3, h4, h5, h6 {
+    margin: 20px 0;
+    font-family: Poppins,sans-serif;
+    color: #252525;
+    font-weight: 700;
+}
+
+body {
+    font-family: "Open Sans",sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    overflow-x: hidden!important;
+    -webkit-font-smoothing: antialiased;
+}
+.right1{
+	 width:50%;
+	 margin : 5% 5% 5% 5%;
+	  border: 1px solid #DC7633;
+	  float:left;
+	  border-radius:6px;
+}
+.right2{
+	 width:50%;
+	 margin : 5% 5% 5% 5%;
+	  border: 1px solid #DC7633;
+	  float:left;
+	    border-radius:6px;
+}
+.error{
+	margin-left: 282px;
+}
+.right3{
+	 width:50%;
+	 margin : 5% 5% 5% 5%;
+	  border: 1px solid #DC7633;
+	  float:left;
+	    border-radius:6px;
+}
+.right4{
+	 width:50%;
+	 margin : 5% 5% 5% 5%;
+	  border: 1px solid #DC7633 ;
+	  float:left;
+	    border-radius:6px;
+}
+.center{
+	 width: 48%;
+    margin: 40% 9% 4% 20%;
+    border: 1px solid #DC7633;
+    text-align: center;
+    border-radius: 6px;
+}
+.normalfontweight{
+	font-weight: normal;
+	font-size: 16px;
+}
+.right{
+	  float: right;
+}
+.left{
+	  float: left;
+}
+.col-sm-6{
+    width: 45%;
+}
+.btnsubmit{
+	text-align:center;
+	    width: 80%;
+    color: white;
+    background-color: blue;
+}
+label{
+	margin: 10% 10% 10% 10%;
+}
+#name{
+	margin: 10% 10% 10% 10%;
+}
+.submit{
+text-align: center;
+margin-bottom: 3%;
+}
+legend{
+	margin-left: 40%;
+	font-size: 22px;
+}
+fieldset{
+	 width:70%;
+	 margin-left:10%;
+	 margin-right:10%;
+	  border: 1px solid #1F618D;
+	 border-width:5px;  
+    border-style:double;
+}
+.floatleft{
+float: left;
+}
+.htmlbtn{
+	width:100%;
+	background-color: #40E0D0;
+	color:White;
+	font-size: 16px;
+	font-weight: bold;
+	border: 1px solid red;
+	border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+   htmlbtn
+}
+
+.txtbox{
+	width: auto;
+    height: auto;
+    margin: 10px 5px 10px 10px;
+}
+.lbl{
+	margin: 4px 10px 16px 93px;
+}
+.ddlist{
+	margin: 4px 10px 16px 33px;
+}
+.submitbtn{
+	margin: 0px 20.99%;
+	font-size:  medium;
+	margin-top: 10px;
+	font-weight: bold;
+}
+.regfrm{
+	margin-top: 20px;
+    margin-bottom: 50px;
+}
+.legend{
+	margin-bottom: 20px;
+}
+ul{
+	    list-style-type: none;
+}
+li{
+  display: inline-block;
+  margin-right: 20px;
+}
+.atag{
+	text-decoration: none;
+    text-align: center;
+	display: inline-block;
+}
